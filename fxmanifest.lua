@@ -11,7 +11,7 @@ shared_scripts {
 }
 
 client_scripts {
-	"client/client.lua"
+	"client.lua"
 }
 
 dependencies {
